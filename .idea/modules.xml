@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GoJava.iml" filepath="$PROJECT_DIR$/GoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaCore.iml" filepath="$PROJECT_DIR$/JavaCore/JavaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDeveloper/JavaDeveloper.iml" filepath="$PROJECT_DIR$/JavaDeveloper/JavaDeveloper.iml" />
     </modules>
   </component>
 </project>
